@@ -1,2 +1,0 @@
-## Teaching Information Science
-
