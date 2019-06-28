@@ -6,5 +6,5 @@
 - Read here, [how you can contribute](howto-contribute.md).
 
 ### Work in progress
-1. [Teaching Information Science](teaching-is/index.md)
+1. [Teaching Information Science](teaching-is/)
 
