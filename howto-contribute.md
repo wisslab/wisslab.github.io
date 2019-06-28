@@ -14,7 +14,7 @@ All followers of the repository and the author of the commit will be notified ab
 
 ### How to edit
 
-If you are not experienced with Git and Github, consider an edit, as described above.
+If you are not experienced with Git and Github, consider a comment, as described above.
 
 If you are experienced, edit the proper way:
 
